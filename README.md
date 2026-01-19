@@ -3,8 +3,13 @@ This repo contains details about building near real time pipeline using Azure AD
 
 **Project End to End Documentation:**
 
+https://deepwiki.com/ViinayKumaarMamidi/Azure_Airbnb_CosmosDB_Near_RealTime_Project
 
-# Azure Airbnb CosmosDB Near-RealTime Project
+
+https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FViinayKumaarMamidi%2FAzure_Airbnb_CosmosDB_Near_RealTime_Project
+
+
+# Azure Airbnb CosmosDB Near-RealTime Project step by step guide:
 
 A step-by-step README to get the Azure-based near-real-time pipeline for Airbnb data up and running. This guide covers architecture, prerequisites, local development, Azure resource provisioning, deployment, testing, observability, and troubleshooting.
 
