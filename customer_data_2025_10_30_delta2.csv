@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,country,zip_code,signup_date,last_login,total_bookings,total_spent,preferred_language,referral_code,account_status
+1,Larry,Peterson,rstokes@collins-parker.com,001-399-8019,"9922 Erin Harbor, Justinchester, NY 66831",Mumbai,Hawaii,Djibouti,89182,2025-04-30,2025-11-05 12:00:00,7,506.97,Chinese,dMbp-28297,Suspended
+20,John,Dixon,fhayes@yahoo.com,205-229-9348,"02304 Mitchell Throughway Apt. 898, North Mitchell, WI 08060",Tokyo,Alabama,Armenia,33698,2025-02-06,2025-10-27 12:00:00,12,653.86,Spanish,ZrHp-26677,Active
+26,Andrew,Henry,samuel09@powell.net,452.153.3621,"Unit 2011 Box 3918, DPO AA 39608",New York,North Carolina,Syrian Arab Republic,61557,2025-03-23,2025-10-07 12:00:00,14,879.96,Spanish,tTgc-75921,Active
+27,Alexis,Daniel,kennethbaird@yahoo.com,003.199.8668,"005 Herrera Prairie Apt. 507, Carlfort, FL 34772",London,Arkansas,Christmas Island,28168,2025-02-22,2025-11-09 12:00:00,8,1354.4,German,sfRf-38160,Inactive
+37,Michael,Clark,nicholas82@hotmail.com,001-230-9797,"8798 Chris Via Suite 353, Austinfurt, AL 52331",Berlin,Louisiana,Djibouti,53392,2025-08-15,2025-10-18 12:00:00,8,3871.67,English,dBbo-67394,Active
+39,Sharon,Brown,jfitzpatrick@gmail.com,865.252.8123,"18701 Chen Stream Apt. 167, Lake Amandaberg, NV 78359",Tokyo,Washington,Haiti,41820,2025-03-05,2025-11-20 12:00:00,11,1419.6,French,LAAU-39422,Active
+40,Deborah,Logan,brettlawson@marquez.biz,001-849-9201,"91389 Wagner Shoal Apt. 843, Moralesbury, ID 04493",New York,Ohio,Luxembourg,96137,2025-05-16,2025-10-31 12:00:00,14,3373.23,French,fuwl-43489,Suspended
+47,Michael,Hamilton,bradytheresa@lloyd.com,(153)6379317,"4567 David Street Apt. 706, New Jackson, CA 74920",London,Virginia,Libyan Arab Jamahiriya,96453,2025-08-26,2025-11-03 12:00:00,5,2924.79,French,fvrp-11498,Suspended
+56,Michaela,Buchanan,ojohnson@hamilton.com,(296)2509837,"137 David Rapids, Stephaniemouth, OK 94942",Paris,Missouri,Norway,14173,2025-07-07,2025-10-14 12:00:00,7,3333.52,Spanish,FNsB-48936,Inactive
+67,Kaitlyn,Benjamin,briannamelendez@hotmail.com,183.543.9005,"2299 Miller Mills Suite 425, Shannonhaven, LA 60967",New York,Utah,Estonia,26941,2025-02-05,2025-11-29 12:00:00,7,1209.35,French,voJN-13607,Suspended
+68,Kevin,Wells,reginald32@walker-duran.org,828-995-1949,"63332 Abbott Points Apt. 684, Lake Julie, IA 08762",Tokyo,Louisiana,Norfolk Island,65853,2025-03-04,2025-10-09 12:00:00,3,2916.14,Spanish,VNuv-99258,Inactive
+73,Kelly,Young,cynthia85@gmail.com,965.665.8962,"9884 Ramos Camp Suite 017, North Huntershire, AK 62687",Madrid,Oregon,Syrian Arab Republic,09905,2025-05-08,2025-11-27 12:00:00,9,2127.43,English,gOQU-79200,Active
+89,Michael,Noble,craigharris@yahoo.com,316-504-8787,"02522 Sutton Plains, East Matthew, ID 92417",Berlin,Alabama,Benin,31097,2025-08-20,2025-11-19 12:00:00,14,2547.45,Spanish,fcci-04940,Active
+90,Dean,Bailey,xdavid@hotmail.com,146990837932,"511 Santos Park, Davidtown, DC 54620",Mumbai,Massachusetts,Vanuatu,19595,2025-04-29,2025-10-12 12:00:00,10,2487.67,Chinese,CpWT-53009,Suspended
+94,Brittany,Stephens,bridgeslarry@yahoo.com,+1-767-46107,"347 Caitlin Springs, East Jamie, TX 63387",Berlin,Iowa,Monaco,25027,2025-03-12,2025-11-30 12:00:00,15,2025.56,Spanish,IBat-38441,Suspended

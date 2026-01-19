@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "email": { "type": "string" },
+    "subject": { "type": "string" },
+    "body": { "type": "string" }
+  },
+  "required": ["email", "subject", "body"]
+}

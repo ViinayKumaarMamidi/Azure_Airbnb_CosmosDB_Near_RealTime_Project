@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,country,zip_code,signup_date,last_login,total_bookings,total_spent,preferred_language,referral_code,account_status
+4,Jose,Delgado,amberjames@yahoo.com,001-391-546-0054x651,"2845 Lin Rue Suite 069, West Jeffreystad, NJ 14256",Sydney,California,San Marino,53042,2025-05-17,2025-10-07 12:00:00,12,329.61,French,lieW-71867,Active
+5,Charles,Payne,kathyanderson@harrell.com,(156)715-3788,"017 Jenkins Loop Apt. 441, South Emily, OK 78640",Tokyo,Georgia,Cambodia,95382,2025-03-26,2025-11-25 12:00:00,9,4061.82,French,ZOTb-36233,Suspended
+12,Benjamin,Mitchell,richardmartin@yahoo.com,(295)671-5155,"862 Mary Mountain, Lake Brianaberg, WY 37650",New York,South Carolina,Cote d'Ivoire,85898,2025-04-24,2025-11-22 12:00:00,9,258.58,German,JJcl-15094,Suspended
+14,Robin,Johnson,carlos68@duffy.com,394-331-2459,"75915 Zavala Flats Apt. 957, Port James, MN 49873",London,Connecticut,India,22081,2025-07-23,2025-11-05 12:00:00,7,1186.24,English,gIiW-26664,Inactive
+15,Diana,Robinson,russell22@hotmail.com,001-325-719-3665,"20010 Richardson Flats Suite 678, South Justin, NJ 37071",Mumbai,Illinois,Mexico,80018,2025-02-01,2025-11-06 12:00:00,10,2836.24,Chinese,kvZT-03107,Suspended
+18,Felicia,Santana,spencermichael@landry.com,+1-498-752-1231x2060,"6426 Jennings Avenue, Richardside, ID 22805",Tokyo,Tennessee,Somalia,76932,2025-02-02,2025-11-27 12:00:00,6,654.43,Spanish,tMcd-39416,Suspended
+28,Zachary,Kaufman,debraclark@miller-wells.info,643-391-7773,"9059 Clark Station, Zacharyton, UT 69237",London,New Hampshire,Mozambique,89007,2025-05-28,2025-11-16 12:00:00,7,2365.34,Spanish,lLnq-58261,Active
+29,Susan,Ryan,lchapman@yahoo.com,+1-044-913-9329x897,"31156 Wilson Ports Suite 093, Carlamouth, AL 15106",Mumbai,Alaska,Zambia,73805,2025-04-25,2025-11-20 12:00:00,7,1889.98,Spanish,Mtkw-05331,Active
+30,Daisy,Chen,pbrock@alvarez.org,(415)448-3690x64206,"73197 Mary Underpass, New Danielle, VT 75096",London,Oklahoma,Ethiopia,08179,2025-04-30,2025-11-26 12:00:00,6,2339.36,French,WWdx-59536,Inactive
+32,Debra,Johnson,fletcherjohn@yahoo.com,001-562-430-2784,"622 Mathew Ridges Suite 158, North Evelynfort, MI 03378",Tokyo,New York,Saint Martin,93837,2025-04-03,2025-10-31 12:00:00,12,1487.16,French,DkiS-62584,Active
+36,Lisa,Shaffer,abarker@hotmail.com,8880153440,"849 Willis Plains Suite 824, South Robertside, AZ 70885",Dubai,Pennsylvania,Lebanon,04542,2025-02-18,2025-10-24 12:00:00,10,992.83,French,vWCu-65557,Suspended
+55,Kevin,Norman,karen14@yahoo.com,366.700.8926,"USCGC Johnson, FPO AA 27988",London,Montana,United States Virgin Islands,91905,2025-01-25,2025-11-15 12:00:00,12,4685.82,Spanish,nsZN-98449,Suspended
+65,Levi,Conley,george40@gmail.com,001-876-738-2730,"2943 Martha Square, East Johnstad, MA 93820",Dubai,Arizona,Serbia,01179,2025-06-22,2025-11-05 12:00:00,13,1157.05,German,YANm-13941,Active
+70,Elizabeth,Simon,sjones@luna-diaz.com,403.541.6351,"86649 Blair Flats Apt. 263, East Brandonside, AZ 12655",Mumbai,Mississippi,Reunion,18112,2025-05-02,2025-10-26 12:00:00,15,4844.03,Chinese,dOmj-86285,Suspended
+72,Melinda,Hudson,jonathandavis@gmail.com,9924878302,"6011 Victor Causeway Suite 231, North Lisa, WA 28845",Tokyo,Louisiana,Guadeloupe,68381,2025-07-05,2025-10-16 12:00:00,15,4079.83,Spanish,btpx-75345,Active
+76,Leslie,Taylor,joshuarivera@hotmail.com,+1-166-924-7493x07090,"292 Cassie Trail, East Samanthaside, CT 70638",New York,Ohio,Sri Lanka,63407,2025-03-18,2025-11-23 12:00:00,1,4607.59,German,BUsx-35808,Inactive
+78,Michael,Bowman,jgallagher@gmail.com,(436)031-0953,"Unit 2403 Box 5150, DPO AA 29003",London,Texas,Togo,18480,2025-08-08,2025-10-19 12:00:00,13,3791.56,Chinese,gleq-41202,Active
+82,Anna,Moore,samuelsmith@hughes.org,9322310604,"15082 Karen Spring, Evansborough, MN 11574",Tokyo,Idaho,Jordan,55766,2025-02-09,2025-11-27 12:00:00,2,103.38,German,tdio-52737,Active
+87,Michael,Walker,mfitzgerald@hotmail.com,654-938-7559,"PSC 4079, Box 7108, APO AP 15257",Toronto,Arkansas,Nauru,71944,2025-07-31,2025-10-27 12:00:00,14,3817.17,French,Keem-06316,Active
+95,Debra,Bennett,camachopaula@rivera-may.org,1835490424,"1744 Kendra Shores, Christopherville, WV 94376",Dubai,Utah,Bolivia,78846,2025-04-13,2025-10-10 12:00:00,10,2512.44,Chinese,TeZl-78351,Suspended

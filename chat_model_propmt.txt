@@ -1,0 +1,16 @@
+Return ONLY a valid JSON object with keys "email", "subject", and "body". Do not include any explanation, markdown, or extra text.
+
+Write a short, warm email for {{ $json.customer_name }} {{ $json.email }} about their Airbnb booking.
+
+Data:
+- Status: {{ $json.status }}
+- Amount: {{ $json.total_amount }}
+- Booking date: {{ $json.booking_date }}
+- City: {{ $json.city }}
+- Country: {{ $json.country_code }}
+
+Rules:
+- If status == "Confirmed", congratulate and mention booking_date and city.
+- If status == "Cancelled", be empathetic and offer help to rebook.
+- Keep it 90 to 140 words. Use Indian English.
+- Write engaging & customized email for each customer, don't use same template
